@@ -1,5 +1,7 @@
 package pe.edu.tecsup.lab03;
 
 public class Application {
-//dos
+  public static void main(String[] args) {
+      //to do
+  }
 }
